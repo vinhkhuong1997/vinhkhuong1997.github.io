@@ -3,7 +3,7 @@ layout: page
 title: about Khuong
 tagline: Supporting tagline
 ---
-{% include JB/setup %}
+
 ## Header 1
 
 
