@@ -1,10 +1,11 @@
-## about Khuong
 ---
 layout: page
-title: about kuteken
+title: about Khuong
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
+## Header 1
+
 
 You can use the [editor on GitHub](https://github.com/vinhkhuong1997/vinhkhuong1997.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
