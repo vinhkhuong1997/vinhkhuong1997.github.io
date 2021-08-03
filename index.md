@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## about Khuong
+---
+layout: page
+title: about kuteken
+tagline: Supporting tagline
+---
+{% include JB/setup %}
 
 You can use the [editor on GitHub](https://github.com/vinhkhuong1997/vinhkhuong1997.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
