@@ -1,6 +1,7 @@
-*{
+* {
     font-family: 'Abel';
 }
+
 body {
     background: #bcc8f1;
 }
@@ -128,7 +129,7 @@ body {
 
 .ul-size {
     margin-top: 100px;
-    margin-left: 50px;
+    margin-left: 200px;
     width: 700px;
     font-size: 20px;
     line-height: 2.5;
